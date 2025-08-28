@@ -1,0 +1,10 @@
+Name: VEERA NIHARIKA KEDARI
+Class: 3rd AI 
+One thing I have learnt in GitHub is :
+    How to create a repository
+    How to commit changes
+    How to upload a file 
+    How to create a file
+    How to create a pull or push request
+    How to generate issues
+    How to share the file we have made in GitHub.
